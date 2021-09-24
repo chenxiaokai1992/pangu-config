@@ -1,1 +1,5 @@
-这是uat
+data:
+  env: config-eureka-uat
+  user:
+    username: eureka-client-user
+    password: 1291029102
